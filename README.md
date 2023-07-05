@@ -1,1 +1,1 @@
-Updating from Gtihub interface
+Updating from Github interface
